@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruchila\\source\\repos\\C_Sharp_ProblemSolving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CD75D4-41AD-410E-B12D-C488E5FBCF94}|Pyramid_Pattern\\Pyramid_Pattern.csproj|c:\\users\\ruchila\\source\\repos\\c_sharp_problemsolving\\pyramid_pattern\\pyramidpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD75D4-41AD-410E-B12D-C488E5FBCF94}|Pyramid_Pattern\\Pyramid_Pattern.csproj|solutionrelative:pyramid_pattern\\pyramidpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PyramidPattern.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchila\\source\\repos\\C_Sharp_ProblemSolving\\Pyramid_Pattern\\PyramidPattern.cs",
+              "RelativeDocumentMoniker": "Pyramid_Pattern\\PyramidPattern.cs",
+              "ToolTip": "C:\\Users\\Ruchila\\source\\repos\\C_Sharp_ProblemSolving\\Pyramid_Pattern\\PyramidPattern.cs",
+              "RelativeToolTip": "Pyramid_Pattern\\PyramidPattern.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:27:05.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

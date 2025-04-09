@@ -1,0 +1,14 @@
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\bin\Debug\net8.0\Pyramid_Pattern.exe
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\bin\Debug\net8.0\Pyramid_Pattern.deps.json
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\bin\Debug\net8.0\Pyramid_Pattern.runtimeconfig.json
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\bin\Debug\net8.0\Pyramid_Pattern.dll
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\bin\Debug\net8.0\Pyramid_Pattern.pdb
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\Pyramid_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\Pyramid_Pattern.AssemblyInfoInputs.cache
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\Pyramid_Pattern.AssemblyInfo.cs
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\Pyramid_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\Pyramid_Pattern.dll
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\refint\Pyramid_Pattern.dll
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\Pyramid_Pattern.pdb
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\Pyramid_Pattern.genruntimeconfig.cache
+C:\Users\Ruchila\source\repos\C_Sharp_Projects_Logical\Pyramid_Pattern\obj\Debug\net8.0\ref\Pyramid_Pattern.dll
